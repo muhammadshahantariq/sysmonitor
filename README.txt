@@ -44,7 +44,7 @@ REQUIREMENTS
 SETUP / INSTALLATION
 ---------------------
 1. Clone the repository:
-       git clone https://github.com/<your-username>/<your-repo>.git
+       git clone https://github.com/muhammadshahantariq/sysmonitor.git
        cd <your-repo>
 
 2. (Recommended) Create and activate a virtual environment:
